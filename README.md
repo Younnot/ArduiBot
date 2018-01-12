@@ -10,11 +10,13 @@ Ce projet est réalisé dans le cadre de la formation de prépa intégrée de Po
 
 # Description du projet
 
-C'est un petit robot mobile avec un design attrayant qui possède plusieurs fonctionnalités comme attraper un objet, éviter des obstacles, suivre des ligne, jouer au sumo avec ses semblables et bien d'autres encore... Il peut être équiper d'un bras robotique maniable et il sera controlé depuis un appareil Android ou un Joystick adapté en utilisant la technologie Bluetooth.
+C'est un petit robot mobile avec un design attrayant qui possède plusieurs fonctionnalités comme attraper un objet, éviter des obstacles, suivre des lignes, jouer au sumo avec ses semblables et bien d'autres encore... Il peut être équipé d'un bras robotique maniable et il sera controlé depuis un appareil Android ou un Joystick adapté en utilisant la technologie Bluetooth.
 
 # Materiel utilisé
 
-Notre projet est basé sur une carte Arduino Nano Xplained d'Atmel, 
+Notre projet est basé sur une carte Arduino Nano Xplained d'Atmel.
+
+Liste du matériel nécessaire:
 - Arduino Continuous Rotation Servo
 - MG995 Heavy Duty Metal Geared Servo
 - 6V AA Arduino Battery Pack
