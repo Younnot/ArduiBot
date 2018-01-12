@@ -11,6 +11,7 @@ Ce projet est réalisé dans le cadre de la formation de prépa intégrée de Po
 # Description du projet
 
 C'est un petit robot mobile avec un design attrayant qui possède plusieurs fonctionnalités comme attraper un objet, éviter des obstacles, suivre des lignes ou encore jouer au sumo avec ses semblables.
+Et d'autres encore à rajouter par la suite ..
 
 # Materiel utilisé
 
