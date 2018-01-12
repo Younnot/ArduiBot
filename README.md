@@ -20,4 +20,4 @@ Notre projet est basé sur une carte Arduino nano Xplained d'Atmel,
 - 6V AA Arduino Battery Pack
 - Arduino Ultrasonic Sensor HC-SR04
 - Arduino HC-06 Bluetooth Module
-
+- Arduino Control board
