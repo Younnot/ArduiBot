@@ -4,7 +4,7 @@ Ce projet est réalisé dans le cadre de la formation de prépa intégrée de Po
 
 # ArduiBot
 
-![ArduiBot](Téléchargements/kit-robotique-littlebot-plus.jpg)  
+![ArduiBot](/Téléchargements/kit-robotique-littlebot-plus.jpg)  
 
 
 
