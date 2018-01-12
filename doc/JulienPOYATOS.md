@@ -15,4 +15,7 @@ https://www.youtube.com/watch?v=cGWsnjSOA8M
 
 * Séance du 12 Janvier 2017 
 
-J'ai commencé à créer le projet sur github.
+Nous avons commencé à créer le projet sur github.
+J'ai cherché de nouvelles fonctionnalités, comme la direction par joystick.
+Nous avons établit la liste du matériel nécessaire à la première partie de la réalisation .
+J'ai cherché comment connecter un joystick en bluetooth à l'Arduino.
