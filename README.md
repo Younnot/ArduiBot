@@ -10,8 +10,7 @@ Ce projet est réalisé dans le cadre de la formation de prépa intégrée de Po
 
 # Description du projet
 
-C'est un petit robot mobile avec un design attrayant qui possède plusieurs fonctionnalités comme attraper un objet, éviter des obstacles, suivre des lignes ou encore jouer au sumo avec ses semblables. Il peut être équiper d'un bras robotique maniable et le controler depuis un appareil Android en utilisant la technologie Bluetooth.
-Et d'autres encore à rajouter par la suite ...
+C'est un petit robot mobile avec un design attrayant qui possède plusieurs fonctionnalités comme attraper un objet, éviter des obstacles, suivre des ligne, jouer au sumo avec ses semblables et bien d'autres encore... Il peut être équiper d'un bras robotique maniable et il sera controler depuis un appareil Android ou un Joystick adapté en utilisant la technologie Bluetooth.
 
 # Materiel utilisé
 
