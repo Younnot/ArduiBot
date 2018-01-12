@@ -10,3 +10,4 @@ On s'est mis d'accord pour faire un projet autour d'un petit robot, on le nommer
 * Séance du 12 Janvier 2018  
 
 Nous avons crée ensemble notre projet sur GitHub en y créant notre cahier du suivi, et notre readme.md.
+Ensuite nous avons regardé des tutoriels sur le petit robot comme par exemple l'utilisation d'un joystick afin de téléguider le ArduiBot. Nous avons établi une liste avec le matériel le plus important à utiliser comme les servomoteurs, le module ultrasonic ou encore le ControlBoard qui peut nous faciliter l'agencement du robot.
