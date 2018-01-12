@@ -14,4 +14,10 @@ C'est un petit robot mobile avec un design attrayant qui possède plusieurs fonc
 
 # Materiel utilisé
 
-Notre projet est basé sur une carte Arduino nano Xplained d'Atmel, ...
+Notre projet est basé sur une carte Arduino nano Xplained d'Atmel, 
+- Arduino Continuous Rotation Servo
+- MG995 Heavy Duty Metal Geared Servo
+- 6V AA Arduino Battery Pack
+- Arduino Ultrasonic Sensor HC-SR04
+- Arduino HC-06 Bluetooth Module
+
