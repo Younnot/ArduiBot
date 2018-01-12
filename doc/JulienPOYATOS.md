@@ -1,4 +1,4 @@
-# Cahier de suivi du projet de Fabien Ferrero
+# Cahier de suivi du projet de Julien Poyatos
 
 * Séance du 22 Décembre 2017 
 
