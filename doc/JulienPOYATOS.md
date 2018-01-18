@@ -19,3 +19,9 @@ Nous avons commencé à créer le projet sur github ainsi que le readme.
 J'ai cherché de nouvelles fonctionnalités, comme la direction par joystick.
 Nous avons établit la liste du matériel nécessaire à la première partie de la réalisation .
 J'ai cherché comment connecter un joystick en bluetooth à l'Arduino.
+
+
+
+* Séance du 18 Janvier 2017 
+
+J'ai rassemblé les bouts de code liés à notre projet et trouvables sur le net. Nous avons fini la liste du matériel et passé commande à notre professeur pour commander une control board. J'ai installer un emulateur pour télécharger sur pc une application android permettant de contrôler notre robot. Nous avons commencé le diaporama de notre présentation orale qui se tiendra la semaine prochaine. 
