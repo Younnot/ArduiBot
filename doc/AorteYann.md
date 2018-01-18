@@ -11,3 +11,6 @@ On s'est mis d'accord pour faire un projet autour d'un petit robot, on le nommer
 
 Nous avons crée ensemble notre projet sur GitHub en y créant notre cahier du suivi, et notre readme.md.
 Ensuite nous avons regardé des tutoriels sur le petit robot comme par exemple l'utilisation d'un joystick afin de téléguider le ArduiBot. Nous avons établi une liste avec le matériel le plus important à utiliser comme les servomoteurs, le module ultrasonic ou encore le ControlBoard qui peut nous faciliter l'agencement du robot.
+
+* Séance du 18 Janvier 2018 
+Nous avons commencé à chercher un code afin de faire déplacer notre ArduiBot, tout cela grâce à l'utilisation de 2 Servomoteurs à rotation continue de la marque Parallax. Nous avons fini la liste de notre matériel afin de bien pouvoir commencer à construire notre robot, nous avons commandé une carte Arduino Nano et un Control Board qui nous permettra de brancher beaucoup plus facilement nos composants sur celui-ci en prenant un minimum de place dans le robot. Et enfin nous avons commencé le diaporama de présentation pour l'oral de la semaine prochaine. 
