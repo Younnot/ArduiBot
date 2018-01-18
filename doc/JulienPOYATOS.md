@@ -24,4 +24,4 @@ J'ai cherché comment connecter un joystick en bluetooth à l'Arduino.
 
 * Séance du 18 Janvier 2017 
 
-J'ai rassemblé les bouts de code liés à notre projet et trouvables sur le net. Nous avons fini la liste du matériel et passé commande à notre professeur pour commander une control board. J'ai installé un emulateur pour télécharger sur pc une application android permettant de contrôler notre robot. Nous nous sommes familiarisés avec les servo-moteurs. Nous avons commencé le diaporama de notre présentation orale qui se tiendra la semaine prochaine. 
+J'ai rassemblé les bouts de code liés à notre projet et trouvables sur le net. Nous avons fini la liste du matériel et passé commande à notre professeur pour commander une control board. J'ai installé un emulateur pour télécharger sur pc une application android permettant de contrôler notre robot. Nous nous sommes familiarisés avec les servo-moteurs. Nous avons commencé le diaporama de notre présentation orale qui se tiendra la semaine prochaine. Nous avons pris  connaissance des horaires du laboratoire qui nous permettra d'imprimer en 3d le corps de notre robot.
