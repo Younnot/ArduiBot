@@ -14,13 +14,13 @@ C'est un petit robot mobile avec un design attrayant qui possède plusieurs fonc
 
 # Materiel utilisé
 
-Notre projet est basé sur une carte Arduino Nano Xplained d'Atmel.
+Notre projet est basé sur une carte Arduino Nano.
 
 Liste du matériel nécessaire:
-- Arduino Continuous Rotation Servo
+- 2 Arduino Continuous Rotation Servo
 - MG995 Heavy Duty Metal Geared Servo
 - 6V AA Arduino Battery Pack
 - Arduino Ultrasonic Sensor HC-SR04
 - Arduino HC-06 Bluetooth Module
 - Arduino Control board
-- Chassis autres (3D)...
+- Chassis autres (3D) à preparer au FAB LAB...
