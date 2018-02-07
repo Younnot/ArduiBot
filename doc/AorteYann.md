@@ -19,3 +19,7 @@ Nous avons commencé à chercher un code afin de faire déplacer notre ArduiBot,
 * Séance du 23 Janvier 2018
 
 Nous nous sommes beaucoup interréssés sur les présentations des autres projets qui vont être fait dans notre classe, nous avons présenter le ArduiBot, à la fin de la séance nous avons revu nos commandes surtout pour le control board qui nous est très important afin de bien dimensionner notre robot. 
+
+* Séance du 7 Fevrier 2018
+
+Pendant les vacances nous sommes passés au FABLAB afin d'avoir le corps et les roues de notre ArduiBot, aujourd'hui nous avons passé la séance (ou presque) à percer des trous des deux côtés de notre châssis afin d'y faire passer nos fils et servomoteurs à rotation continue, en fin de séance j'ai fait la demande de commande pour les 2 servomoteurs justement.
