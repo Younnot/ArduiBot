@@ -32,3 +32,10 @@ J'ai rassemblé les bouts de code liés à notre projet et trouvables sur le net
 * Séance du 18 Janvier 2017 
 
 Nous avons fait une présenation orale de notre ArduiBot, et nous avons écouté les présentations de nos camarades. Nous avons commencé à écrire le code pour contrôler les 2 servo moteurs.
+
+
+
+
+* Séance du 18 Janvier 2017 
+
+Nous sommes passés pendant les vacances au FABLAB afin d'imprimer en 3d le chassis et les roues de notre robot. Nous avons passé cette séance à agrandir les trous pour insérer les roues car ceux-ci étaient trop petits et remplis de matière superflue. Nous avons commandé 2 servo moteurs à rotation continues qui serviront pour les roues.
