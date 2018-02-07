@@ -29,7 +29,7 @@ J'ai rassemblé les bouts de code liés à notre projet et trouvables sur le net
 
 
 
-* Séance du 25 Janvier 2017 
+* Séance du 23 Janvier 2017 
 
 Nous avons fait une présenation orale de notre ArduiBot, et nous avons écouté les présentations de nos camarades. Nous avons commencé à écrire le code pour contrôler les 2 servo moteurs.
 
