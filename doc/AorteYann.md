@@ -23,3 +23,7 @@ Nous nous sommes beaucoup interréssés sur les présentations des autres projet
 * Séance du 7 Fevrier 2018
 
 Pendant les vacances nous sommes passés au FABLAB afin d'avoir le corps et les roues de notre ArduiBot, aujourd'hui nous avons passé la séance (ou presque) à percer des trous des deux côtés de notre châssis afin d'y faire passer nos fils et servomoteurs à rotation continue, en fin de séance j'ai fait la demande de commande pour les 2 servomoteurs justement.
+
+* Séance du 16 Mars 2018
+Depuis la dernière séance nous avons imprimé entierement toutes les pièces pour notre robot au FABLAB et nous avons reçu les servomoteurs à rotation continue. Durant la séance nous avons connecté l'Arduino Nano au control board en testant plusieurs programmes liés a nos servomoteurs afin de comprendre le fonctionnement de la control board. Nous avons aussi par la suite connecté et configuré le module bluetooth à la control board.
+
