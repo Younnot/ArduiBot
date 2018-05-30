@@ -17,8 +17,8 @@ C'est un petit robot mobile avec un design attrayant qui possède plusieurs fonc
 Notre projet est basé sur une carte Arduino Nano.
 
 Liste du matériel nécessaire:
-- 2 Arduino Continuous Rotation Servo
-- MG995 Heavy Duty Metal Geared Servo
+- 2 Arduino Continuous Rotation Servo (for wheels)
+- SG90 servo mini micro 9g (for "gripper")
 - 6V AA Arduino Battery Pack avec des 4 piles
 - Arduino Ultrasonic Sensor HC-SR04
 - Arduino HC-06 Bluetooth Module avec des resistances adequat
