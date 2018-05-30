@@ -34,7 +34,7 @@ Durant cette séance nous avons développé la partie code de notre projet comme
 
 * Séance du 5 Avril 2018
 
-Nous avons encore continuer à coder, et on a commencé à reflechir à l'utilisation d'une application qui nous permettra de controler notre robot depuis un appareil Android.
+Nous avons encore continuer à coder, et on a commencé à réflechir à l'utilisation d'une application qui nous permettra de controler notre robot depuis un appareil Android.
 
 * Séance du 9 Avril 2018
 
@@ -42,7 +42,7 @@ Pendant cette séance, nous avons commencé à utiliser l'application qui s'appe
 
 * Séance du 2 Mai 2018
 
-Pendant la longue periode où on a pas eu le projet, nous avons coder entierement les codes pour l'application, ensuite nous avons pu tester celle ci, notre ArduiBot commence enfin à rouler malgrè que l'arduino nano soit encore brancher à l'ordinateur.
+Pendant la longue periode où on a pas eu le projet, nous avons coder entierement les sketchs pour l'application, ensuite nous avons pu tester celle ci, notre ArduiBot commence enfin à rouler malgrè que l'arduino nano soit encore brancher à l'ordinateur.
 
 * Séance du 9 Mai 2018 
 
@@ -50,7 +50,9 @@ Durant cette dernière séance, nous avons commencé à réflechir à l'utilisat
 
 * Jusqu'au 31 Mai 2018 
 
-
+Nous sommes donc aller plusieurs fois au FabLab afin d'imprimer notre "gripper" et de poncer, découper, coller plusieurs choses sur notre chassis, gripper... 
+De plus nous avons mis un buzzer afin que notre ArduiBot fasse des sons.
+Nous avons monter entierement notre ArduiBot avec ses servomoteurs...
 
 
 
