@@ -43,6 +43,44 @@ Nous sommes passés pendant les vacances au FABLAB afin d'imprimer en 3d le chas
 
 
 
-* Séance du 16 mars 03
+* Séance du 16 mars 2018
 
 Nous avons imprimé le reste des pièces en 3D. Nous avons connecté l'Arduino nano à la control board et nous y avons connecté les moteurs en les testant sur de multiples programmes afin de comprendre son fonctionnement. Nous avons commencé à connecter le module bluetooth.
+
+
+
+
+* Séance du 29 mars 2018
+
+Nous avons continué de faire fonctionner les servo moteurs sur de multiples programmes, puis nous avons commencé à créer notre propre programme de contrôle de moteurs en commençant par les cas les plus simples (avant, arrière, tourner à droite, tourner à gauche).
+
+
+
+* Séance du 5 avril 2018
+
+Nous avons continué de coder les servo moteurs, nous avons aussi initialisé la connection du module bluetooth, et enfin nous avons commencé à chercher comment créer une application android pour contrôler notre robot depuis un téléphone portable.
+
+
+
+* Séance du 9 avril 2018
+
+Nous avons trouvé une application qui convenait pour notre robot, et nous avons configuré ses paramètres afin de recevoir les bonnes valeurs sur notre module bluetooth.
+
+
+
+* Séance du 2 mai 2018
+
+Pendant la longue période de trou parmis les cours de projet, nous avons finalisé le code des servo moteurs, nous avons créé le code du capteur de distance, nous avons configuré le module bluetooth et notre application. Notre robot commence enfin à rouler en étant connecté à l'ordinateur, tout en recevant des instructions depuis le téléphone. Nous sommes également retourné au fablab pour imprimer des pièces supplémentaires (roues de rechange, etc) et des nouvelles pièces qui constitueront notre pince. Nous avons aussi procédé à l'amélioration de certaines pièces (ponçage, perforage, etc).
+
+
+
+* Séance du 9 mai 2018
+
+Nous avons commencé à utiliser la pince de notre robot, à réfléchir à la manière dont elle sera connectée à notre robot, et à créer le code correspondant. 
+
+
+
+* Séance du 31 mai 2018 : rendu du projet
+
+Nous sommes retournés plusieurs fois au fablab pour améliorer de nombreuses pièces à l'aide des outils présents sur place. Nous avons ajouté un buzzer à notre robot afin de lui faire produire des sons et des musiques. Nous avons configuré la pince, tous les paramètres de notre application et le module bluetooth fonctionne parfaitement. Nous avons aussi réduit considérablement le nombre de fils utilisés et réduit la place que prenait le circuit afin qu'il rentre dans le boitier de notre robot. Enfin, nous avons ajouté un mode autonome qui se déplace librement tout en évitant les obstacles.
+
