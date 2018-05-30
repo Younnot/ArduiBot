@@ -25,5 +25,33 @@ Nous nous sommes beaucoup interréssés sur les présentations des autres projet
 Pendant les vacances nous sommes passés au FABLAB afin d'avoir le corps et les roues de notre ArduiBot, aujourd'hui nous avons passé la séance (ou presque) à percer des trous des deux côtés de notre châssis afin d'y faire passer nos fils et servomoteurs à rotation continue, en fin de séance j'ai fait la demande de commande pour les 2 servomoteurs justement.
 
 * Séance du 16 Mars 2018
+
 Depuis la dernière séance nous avons imprimé entierement toutes les pièces pour notre robot au FABLAB et nous avons reçu les servomoteurs à rotation continue. Durant la séance nous avons connecté l'Arduino Nano au control board en testant plusieurs programmes liés a nos servomoteurs afin de comprendre le fonctionnement de la control board. Nous avons aussi par la suite connecté et configuré le module bluetooth à la control board.
+
+* Séance du 29 Mars 2018
+
+Durant cette séance nous avons développé la partie code de notre projet comme l'utilisation des servomoteurs, du bluetooth, du module son et du module de distance.
+
+* Séance du 5 Avril 2018
+
+Nous avons encore continuer à coder, et on a commencé à reflechir à l'utilisation d'une application qui nous permettra de controler notre robot depuis un appareil Android.
+
+* Séance du 9 Avril 2018
+
+Pendant cette séance, nous avons commencé à utiliser l'application qui s'appelle Arduino Bluetooth Controller et à comprendre le principe d'utilisation de celle ci avec l'interface Arduino.
+
+* Séance du 2 Mai 2018
+
+Pendant la longue periode où on a pas eu le projet, nous avons coder entierement les codes pour l'application, ensuite nous avons pu tester celle ci, notre ArduiBot commence enfin à rouler malgrè que l'arduino nano soit encore brancher à l'ordinateur.
+
+* Séance du 9 Mai 2018 
+
+Durant cette dernière séance, nous avons commencé à réflechir à l'utilisation d'un petit "gripper" qui est une petite pince qui permettra à l'ArduiBot de prendre des petits objets, ce gripper sera conçu avec un servomoteur.
+
+* Jusqu'au 31 Mai 2018 
+
+
+
+
+
 
