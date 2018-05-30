@@ -19,8 +19,11 @@ Notre projet est basé sur une carte Arduino Nano.
 Liste du matériel nécessaire:
 - 2 Arduino Continuous Rotation Servo
 - MG995 Heavy Duty Metal Geared Servo
-- 6V AA Arduino Battery Pack
+- 6V AA Arduino Battery Pack avec des 4 piles
 - Arduino Ultrasonic Sensor HC-SR04
-- Arduino HC-06 Bluetooth Module
+- Arduino HC-06 Bluetooth Module avec des resistances adequat
 - Arduino Control board
+- Petite plaque de connexion
+- Fils de connexions
+- Buzzer
 - Chassis autres (3D) à preparer au FAB LAB...
